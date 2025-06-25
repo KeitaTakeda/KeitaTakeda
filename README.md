@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 # Stack
 ## Languege/Framework
-<img src="https://skillicons.dev/icons?i=matlab,c,python,java,javascript,typescript,react,next.js,notion,linux,anaconda,vscode,r" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=matlab,c,python,java,javascript,typescript,react,next,notion,linux,anaconda,vscode,r" /> <br /><br />
