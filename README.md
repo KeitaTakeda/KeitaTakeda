@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**KeitaTakeda/KeitaTakeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shiv-ko/shiv-ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiv-ko&theme=github)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv-ko&layout=compact&count_private=true&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=shiv-ko&count_private=true&show_icons=true&show_icons=true" />
+</p>
+
+# Stack
+## Languege/Framework
+<img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,typescript,react,next,go,aws,graphql,firebase,tailwind,notion,vim,linux,pytorch" /> <br /><br />
