@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 # Stack
 ## Languege/Framework
-<img src="https://skillicons.dev/icons?i=matlab" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=matlab,C" /> <br /><br />
